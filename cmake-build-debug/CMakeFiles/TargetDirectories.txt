@@ -1,0 +1,3 @@
+/Users/henryburbridge/Desktop/ComputerScience/Programming/TicketSales/cmake-build-debug/CMakeFiles/TicketSales.dir
+/Users/henryburbridge/Desktop/ComputerScience/Programming/TicketSales/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/henryburbridge/Desktop/ComputerScience/Programming/TicketSales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
